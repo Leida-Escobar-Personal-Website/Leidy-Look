@@ -18,7 +18,7 @@ article{
     padding-bottom: 15px;
     text-shadow: 3px 3px 5px rgb(70, 111, 187);
 }
-
+/* paragraph visuals */
 p{
     color: black;
     text-shadow: 2px 2px 5px rgb(89, 182, 85);
@@ -30,4 +30,8 @@ p{
 header{
     text-align: right;
     background-color: rgb(89, 182,85);
+}
+
+h1{
+    text-align: center;
 }
