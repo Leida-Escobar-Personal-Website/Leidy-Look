@@ -1,0 +1,33 @@
+body{
+    background-color: paleturquoise;
+}
+
+div{
+/* border for text */
+    width: 600px;
+    border: 3px dotted whitesmoke;
+    padding: 40px;
+    margin: 5px
+}
+
+article{
+/* text visuals */
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 15px;
+    text-shadow: 3px 3px 5px rgb(70, 111, 187);
+}
+
+p{
+    color: black;
+    text-shadow: 2px 2px 5px rgb(89, 182, 85);
+    text-align: center;
+    font-style:oblique;
+    font-weight: bold;
+}
+
+header{
+    text-align: right;
+    background-color: rgb(89, 182,85);
+}
