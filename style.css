@@ -1,13 +1,15 @@
 body{
     background-color: paleturquoise;
+    background-
 }
 
 div{
 /* border for text */
-    width: 600px;
     border: 3px dotted whitesmoke;
     padding: 40px;
-    margin: 5px
+    margin: 5px;
+    display: grid;
+    background-color: rgba(89, 182, 85, 0.5);
 }
 
 article{
@@ -34,8 +36,19 @@ header{
 
 h1{
     text-align: center;
+    text-transform:;
+}
+
+h3{
+    color: crimson;
 }
 
 form{
     display: grid;
+}
+
+@media (any-hover: hover){
+    a:hover{
+        background: coral;
+    }
 }
